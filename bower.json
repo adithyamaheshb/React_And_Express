@@ -1,0 +1,21 @@
+{
+  "name": "react_and_express",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Adithya Mahesh Bariki <adithyamaheshbariki@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.6.1"
+  }
+}
