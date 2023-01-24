@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bower-latest": "^1.1.4",
-    "browser-sync": "^2.18.13",
+    "browser-sync": "^2.27.11",
     "browserify": "^14.4.0",
     "ejs": "^2.5.7",
     "express": "^4.15.4",
